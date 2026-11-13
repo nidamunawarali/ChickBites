@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="42" height="42" fill="none">
+  <!-- Chicken Comb -->
+  <path d="M22 10C21 7 24 5 26 7C28 5 31 6 31 9C33 8 36 10 35 13" stroke="#E67E22" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="#E67E22" fill-opacity="0.15"/>
+  <!-- Head & Body Outline -->
+  <path d="M17 19C15 19 11 20 9 22C11 23 14 24 16 24C16 28 18 33 22 36C26 39 32 39 36 36C40 33 41 27 40 21C39 15 33 13 26 13C22 13 19 15 17 19Z" stroke="#2B170E" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="#FFF"/>
+  <!-- Beak -->
+  <polygon points="12,20 6,22 12,25" fill="#E67E22" stroke="#E67E22" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Eye -->
+  <circle cx="20" cy="20" r="2" fill="#2B170E"/>
+  <!-- Wattle -->
+  <path d="M13 25C12 27 13 29 15 29C16 29 17 27 16 25" fill="#E74C3C" stroke="#E74C3C" stroke-width="1.5"/>
+</svg>
